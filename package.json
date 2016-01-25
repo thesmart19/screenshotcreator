@@ -1,0 +1,15 @@
+{
+  "name": "screenshotcreator",
+  "version": "1.0.0",
+  "description": "This is test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Scoblov",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoshot": "^0.2.1"
+  }
+}
