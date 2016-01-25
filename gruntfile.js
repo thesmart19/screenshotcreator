@@ -8,8 +8,8 @@ module.exports = function(grunt) {
 					path: 'build',
 					remote: {
 						files: [
-							{ src: 'http://inter1ads.com/?l=Kke4EnLSHF3KqTr&language=en&tr=default', dest: '01.png', delay: '5000' },
-							{ src: 'http://inter1ads.com/?l=OMjpxkJJLDp5dzJ&language=en&tr=default', dest: '02.png', delay: '5000' },
+							{ src: 'http://google.com/', dest: 'google.png', delay: '5000' },
+							{ src: 'https://github.com/', dest: 'github.png', delay: '5000' },
 						]
 					},
 					viewport: [
